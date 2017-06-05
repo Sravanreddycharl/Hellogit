@@ -5,5 +5,7 @@ public class example {
 		String something = "a";
 		example2 e = new example2();
 		System.out.println(e.returnString(something));
+		System.out.println("soemthing");
+
 	}
 }
